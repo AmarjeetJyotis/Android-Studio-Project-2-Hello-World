@@ -84,9 +84,8 @@ Open the project in Android Studio.
 
 Run the app on an emulator or physical device.
 
-👨‍💻 Author
+#👨‍💻 Author
 Amarjeet Kumar
-
 B.Tech CSE (21BCS10768)
 
 📄 License
