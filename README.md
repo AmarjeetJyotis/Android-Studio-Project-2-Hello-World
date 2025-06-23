@@ -84,9 +84,9 @@ Open the project in Android Studio.
 
 Run the app on an emulator or physical device.
 
-#👨‍💻 Author
-Amarjeet Kumar
-B.Tech CSE (21BCS10768)
+### 👨‍💻 Author
+    Amarjeet Kumar
+    B.Tech CSE (21BCS10768)
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
